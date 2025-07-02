@@ -58,7 +58,8 @@ with your actual API key
 
 
 ## 📸 Screenshots
- ![Weather App Screenshot](./screenshot.png)
+![Weather-API Screenshot](./screenshot.png)
+
 
 
 ## 🧠 How It Works
